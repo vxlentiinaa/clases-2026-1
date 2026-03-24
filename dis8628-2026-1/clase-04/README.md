@@ -62,3 +62,8 @@ Propuesta grafica 2
 - trabajar la idea entre lo publico y lo democratico y realizar afiches que habían tipografia en word windows
 - agregarle lo público, hacer con lo que tenemos algo rico en grafico
 - otro tipo de repeticion, prueba estandarizada, es individualista
+
+## Encargo 03
+
+- 3 afiches, detallar el sistema de moduloque tenga medida etc
+- bill of materials, costo etc
