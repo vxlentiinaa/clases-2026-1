@@ -1,5 +1,9 @@
 ## TALLER DE OBJETOS Y ESPACIOS / MUSEOGRAFÍA
 
+17 de marzo 2026
+
+---
+
 `Correción Encargo 02- grupo 4`
 
 PRESENTACIÓN
