@@ -21,9 +21,10 @@ Historia del documental contemporáneo y otros formatos de creación
   - `2 unidad`: Documentales contemporáneos, como se clasifican, etc
   - `3 unidad`: Narrativa y lenguaje audiovisual
 - 2 evaluaciones por cada unidad 
-  - ensayo / taller (60%-40%) 
+  - ensayo / taller (60%-40%)
+- ensayo en perosnal o en pareja
 
- ### relleno
+### relleno
 
 `¿Qué es el audiovisual?`
 
