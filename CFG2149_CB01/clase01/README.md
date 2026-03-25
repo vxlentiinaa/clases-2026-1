@@ -69,3 +69,9 @@ Existen contorno en el cual se puede traducir en línear, puedo traducir en lín
 
 - Lo que los ojos ven
 
+---
+
+Cada dos semanas, evaluación
+- 22 de abril
+- 24 de junio
+- 27 de mayo > presencial
