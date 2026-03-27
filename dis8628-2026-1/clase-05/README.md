@@ -4,6 +4,8 @@
 
 ---
 
+No colocar cosas atrás del guardia, porque la puerta se abre hacia adentro.
+
 ## Apuntes charla momento ciudadano
 
 -
