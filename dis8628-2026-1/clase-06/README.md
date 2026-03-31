@@ -8,8 +8,13 @@ trabajar con fotografías
 
 ---
 
-que la gente pueda participar en la exposición
-junquillos
+- que la gente pueda participar en la exposición
+- junquillos
+- el piso es de cerámica y no se puede rallar
+- aplicarle mapping
+
+- el recorrido desde el museo ya que los estudiantes toman el museo como atajo
+- que pondremos en la vitrina
 
 ---
 
