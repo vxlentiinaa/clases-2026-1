@@ -45,19 +45,19 @@ Comentarios de los compañeros
 
 ---
 
-- la propuesta 1 de la semana pasada, estaba más cerca de lo que queríamos
-- buen referente en la imagen roja DENUEVOOOOOO, LO MANDÉ LA SEMANA PASADAAAAA
+- la propuesta 01 de la semana pasada, estaba más cerca de lo que queríamos
+- buen referente en la imagen roja de la gráfica (lo mandé la semana pasada)
 - la idea es mejorar propuestas que consideraban un buen avance
 - propuesta de adolescentes, se infantilizó
 - SEGUIR CON LA PROPUESTA DE LA SEMANA PASADA
 - usar la riso de la u, así que ojo con los colores
-- papeles de colores, jugar con eso
+- podemos usar papeles de colores > jugar con eso
 - la ilustraciones con la imágenes, se sienten no incluidas
 - se reinfantilizó la propuesta
-- está muy tímido, revolucionario de la calle
-- que las imagenes tengan algo en común
+- está muy tímido, debe ser revolucionario de la calle
+- que las imágenes tengan algo en común
 - aplicar el sistema en un módulo expositivo
-- montado la gráfica encima
+  - montado la gráfica encima
 
 ---
 
@@ -70,7 +70,7 @@ Comentarios de los compañeros
 - un nombre que llame y ponerle la bajada
 - referentes análogos
 - buen referente: KULTOUR
-- se ve muy mockup, muy digiital
+- se ve muy mockup, muy digital
 
 ---
 
@@ -79,8 +79,8 @@ Comentarios de los compañeros
   - se pueden cambiar los conceptos si es que no nos gusta
 - los moodboard: la imagen de la verde de la silla
 - ver más y no quedarse con la primera idea
-- cuando se confugyran tres, como se ve
-- tener un modulo no significa que no se puedan ver de otra forma, que pasa si ponemos 2 o 3 o qué
+- cuando se configuran tres módulos, como se ve
+- tener un módulo no significa que no se puedan ver de otra forma, que pasa si ponemos 2 o 3 o qué
 - la grilla se perdió en base a la línea de tiempo
 - exposición de orden cronólogico: más cerca del museo que del metro y ver el recorrido
 - dirigir el recorrido, a la profundidad de la sala
@@ -95,8 +95,8 @@ Comentarios de los compañeros
 
 ---
 
-la malla es muy chata de trabajar
-cuanta plata costaría uno de estos y en base a eso ver que trabajar
+- la malla es muy chata de trabajar
+- cuanta plata costaría uno de estos y en base a eso ver que trabajar
 
 
 ---
