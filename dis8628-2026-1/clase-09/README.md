@@ -14,7 +14,7 @@ Movimientos estudiantiles y acción colectiva.
 
 *" No miren la historia como algo lejano, sino como algo que ellos mismos podrían haber hecho""*
 
-### Actividad: El movimiento en papel
+### Actividad: Del movimiento al papel
 
 En un mundo donde el movimiento suele ocurrir tras una pantalla; el sentido de la actividad es recuperar la presencialidad de comunicación mediante el folleto, donde el mediador pregunta si es más poderoso un post que desaparece o un papel que entregas mano a mano?. Los jóvenes deberán entender que su consigna no nace de la nada, sino que es parte de un contexto histórico que se tomó las calles.
 
