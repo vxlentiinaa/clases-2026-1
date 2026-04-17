@@ -8,6 +8,8 @@
 
 Momento 3: Resistencia a la dictadura - Mochilazo - Revolución Pingüina
 
+Movimientos estudiantiles y acción colectiva.
+
 --> Mostrar como los NNJ pasaron de espacios formales a la acción colectiva en el espacio público.
 
 *" No miren la historia como algo lejano, sino como algo que ellos mismos podrían haber hecho""*
