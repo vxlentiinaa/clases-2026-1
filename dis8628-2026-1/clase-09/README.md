@@ -39,6 +39,18 @@ Objetivo: Reconocer que los jóvenes son sujetos políticos capaces de transform
 Al llegar al momento 3 de la exhibición el mediador separa el grupo curso en dos, para acomodarlos en dos mesas. El mediador da un un contexto antes de empezar la actividad, como por ejemplo: Qué movimientos componen el momento 3, dando de ejemplo las gráficas en la exhibición.
 
 
+---
+
+## Encargo prox semana.
+
+- referentes nutridos: referentes operaciones etc.
+- moodboards nutridos
+- la definicion del orden espacial convive con el orden curatorial y la definicion de las actividades
+- si una es participativa en conjunto, todas deben ser así
+- re armar los objetivos en base a los nuevos conceptos
+- el lenguaje de las interacciones debe ser el mismo
+
+
 
 
 
