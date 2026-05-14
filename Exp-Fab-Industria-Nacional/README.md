@@ -69,5 +69,18 @@ Genspark.ai > para diseño
 
 redactar el proyecto lo más entendible posible, como vender la idea a la profe
 
+uno podría diseñar un sistema, ejemplo: colocarse la mascarilla, tener un lugar para respirar, etc.
+
+### HITEGA
+
+- Sala de calma, ruido continuo
+- residuo de tela: nuevos productos
+
+### BRONCES REY
+
+- Orden en la logística de almacenamiento
+- panel de herramientas
+- zonas de trabajo
+- indumentaria
 
 
