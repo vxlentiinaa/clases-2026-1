@@ -1,6 +1,6 @@
 Martes 11 de agosto 2026
 
-# Taller Data
+# [Taller Data](https://field-mine-ef5.notion.site/Taller-Data-DIS8646-3aa51d9cbb9980aeb641e8f53784ac3e?source=copy_link)
 
 - Contenido: ámbitos del cuerpo, como se puede visualizar
 - formas de comunicar ideas y conceptos; comunicar de nuevas maneras
@@ -72,4 +72,44 @@ Es la lógica en la que iremos desarrollando los proyectos
 
 `Unidad 3` - experiencias
 
+---
 
+# Unidad 1: Yo / datos
+
+*¿Qué información produces tú sin darte cuenta?*
+
+A lo largo del día hacemos distintos datos que no nos damos cuenta, como por ejemplo: Movimientos, hábitos, decisiones, emociones, recorridos, consumos, interacciones, gestos, etc. 
+
+El medir cuanto tiempo me demoro en llegar a un lugar, al final es indagar en los hábitos que hago y hacerme preguntas desde el análisis. También la idea es ir descubriendo mis intereses en base a esto
+
+`Registrar:` Elegimos un fenómeno cotidiano propio y lo observamos con atención. Ej: me toco el pelo a las 10:30 horas. Libreta, método de registo
+
+`Procesar:` Organizamos y miramos nuestros datos para descubrir patrones, relaciones, variaciones, etc. Ej: me toco el pelo porque me siento nerviosa
+
+`Visualizar:` Transformamos los hallazgos en una visualización que comunica lo descubierto.
+
+*Dear Data* de Maria Popova y Giorgia Lupi > <https://drive.google.com/drive/folders/1Tw8eAaEdKybFifxjtD2jh7kUsLbTVkx3?usp=drive_link>
+
+---
+
+**Encargo**
+
+- Trabajar el formato postal 10 x 15 cm y la bitácora
+  - Por una cara la visualización y por la otra la explicación, ej: el círculo rojo interpreta esto
+- Considerar otras variables que nos puedan ayudar a construir el relato, qué es lo que sentía ese día o cómo me sentía ese día. Porque al final estoy contando lo que me ocurrió durante la semana
+- Ir anotando las variables y categorizándolas, ej: si son de tiempo, sonido, decisiones, etc. Otro ejemplo: una persona que le encanta los juegos, entonces sus variable son > cuántas horas juego, el género del juego, si tengo tiempo para jugar, etc.
+- de 3 a 5 variables para poder medir
+
+La gracia de las variables externas, es que ayuden a entender el tema. 
+
+- Tratar de buscar tu voz en el relato, ej: más que buscar la hora y el lugar donde como, es saber si me gusta lo que estoy comiendo? o con quién estoy comiendo? o qué me hace sentir cuando como algo?
+- Otro ejemplo sería, cuantas personas saludo durante la semana o el día; y poder representarlos en colores, el rojo es la persona más cercana y el blanco el más lejano.
+- La idea es medir todo; y luego mirar pa atrás y ver si es medible o no
+
+Definir las reglas de medición, es clave. ej: clasificar los sueños en base a símbolos o el saludo en base a la cercanía que tengo con la persona, etc. 
+
+`IDEAS`
+
+En mi caso, estaba pensando en cuantas veces me toco el pelo estando en un estado de "concentración" durante el día. Pero ahora la pregunta es, en qué me concentraba? en la práctica? en la u? por escuchar a alguien? o simplemente me disocié?
+
+REVISAR LA BIBLIOGRAFÍA
