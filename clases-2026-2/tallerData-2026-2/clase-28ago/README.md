@@ -19,3 +19,6 @@ Clase de hoy:
 
 - Agrupar en parejas
 - Elaborar las estrategias
+- Pareja con la sofi:)
+
+
